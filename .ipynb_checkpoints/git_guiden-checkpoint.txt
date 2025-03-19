@@ -1,0 +1,13 @@
+Klon ind i vores repo:
+
+git clone https://github.com/jrytved/IsingModelHPPC.git
+
+# For at opdatere koden i repo
+
+git add .
+git commit -m "Besked" (Husk en besked for at undgå at åbne command line text editor)
+git push
+
+# For at få din egen kode up to date med hvad der er i vores repo
+
+git pull
